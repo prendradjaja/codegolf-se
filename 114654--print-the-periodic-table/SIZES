@@ -4,6 +4,7 @@ sol1     | 2269 (minified + Golfing Everything But The Data)
 sol2     | 1252 (sol1 + lzma base85, like Colera Su's answer to this problem. not positive i'm doing it right, but seems to work)
 sol3     | 1569 (sol1 + ad hoc compression)
 sol3.1   | 1561 (minor)
+sol3.2   | 1542 (minor)
 
 
 
@@ -21,3 +22,4 @@ sol3.1   | 1561 (minor)
 
 Minor changes:
 3.1 (-8) -- I[x]=a;I[y]=a -> I[x]=I[y]=a
+3.2 (-19) -- combine two loops into one
