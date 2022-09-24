@@ -9,6 +9,7 @@ sol3.3   | 1537 (minor)
 sol4     | 994 (compress D)
 sol4.1   | 967 (D: make it a string)
 sol4.2   | 960 (D: use explicit delimiter, which allows empty sections)
+sol5     | 898 inline F, d()
 
 
 
