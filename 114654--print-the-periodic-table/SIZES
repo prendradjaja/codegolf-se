@@ -1,0 +1,20 @@
+Ungolfed: 2777
+Minified: 2340 (ungolfed + minification)
+sol1: 2269 (minified + Golfing Everything But The Data)
+sol2: 1252 (sol1 + lzma base85, like Colera Su's answer to this problem. not positive i'm doing it right, but seems to work)
+sol3: 1569 (sol1 + ad hoc compression)
+
+
+
+
+
+
+"Golfing Everything But The Data":
+518
+498 (-20) -- q=range
+495 (-3) -- p=print
+484 (-11) -- DRY .center(5)
+483 (-1) -- i=0 as default param
+457 (-26) -- inline W and H
+453 (-4) -- u='_' (5 occurrences)
+447 (-6) -- remove i from w(), increment c instead
