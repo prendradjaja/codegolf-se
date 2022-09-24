@@ -11,6 +11,7 @@ sol4.1   | 967 (D: make it a string)
 sol4.2   | 960 (D: use explicit delimiter, which allows empty sections)
 sol5     | 898 inline F, d()
 sol5.1   | 893 remove 0th element from D and E, use for loop
+sol5.2   | 885 forgot to use q instead of range a couple times!
 
 
 
