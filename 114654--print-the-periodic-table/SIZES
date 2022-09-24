@@ -12,6 +12,10 @@ sol4.2   | 960 (D: use explicit delimiter, which allows empty sections)
 sol5     | 898 inline F, d()
 sol5.1   | 893 remove 0th element from D and E, use for loop
 sol5.2   | 885 forgot to use q instead of range a couple times!
+sol5.3   | 877 inline E, w()
+sol5.4   | 867 inline H, W
+sol5.5   | 861 inline s, remove needless parens
+sol5.6   | 849 one-line print, use +=, remove needless brackets
 
 
 
