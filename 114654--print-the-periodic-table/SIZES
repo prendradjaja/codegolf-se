@@ -20,6 +20,7 @@ sol5.7   | 847 inline x
 sol5.8   | 843 shorter conditions
 sol5.9   | 841 move I[24,18]=u into init
 sol6     | 820 combine horizontal line loop into text loop
+sol6.1   | 815 .append() -> +=
 
 
 
