@@ -16,6 +16,9 @@ sol5.3   | 877 inline E, w()
 sol5.4   | 867 inline H, W
 sol5.5   | 861 inline s, remove needless parens
 sol5.6   | 849 one-line print, use +=, remove needless brackets
+sol5.7   | 847 inline x
+sol5.8   | 843 shorter conditions
+sol5.9   | 841 move I[24,18]=u into init
 
 
 
