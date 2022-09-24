@@ -6,6 +6,7 @@ sol3     | 1569 (sol1 + ad hoc compression)
 sol3.1   | 1561 (minor)
 sol3.2   | 1542 (minor)
 sol3.3   | 1537 (minor)
+sol4     | 994 (compress D)
 
 
 
