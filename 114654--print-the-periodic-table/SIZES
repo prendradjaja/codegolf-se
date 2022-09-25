@@ -1,3 +1,4 @@
+DAY ONE
 Ungolfed | 2777
 Minified | 2340 (ungolfed + minification)
 sol1     | 2269 (minified + Golfing Everything But The Data)
@@ -21,6 +22,19 @@ sol5.8   | 843 shorter conditions
 sol5.9   | 841 move I[24,18]=u into init
 sol6     | 820 combine horizontal line loop into text loop
 sol6.1   | 815 .append() -> +=
+
+DAY TWO
+sol6.2   | 811 compress layout string
+sol6.3   | 808 that range doesn't need a start point! those chars get overwritten
+sol6.4   | 804 R+n can be DRYed
+sol6.5   | 799 oh wow, this is enumerate() (but use explicit increment instead of enumerate because shorter)
+sol6.6   | 792 and then i can get rid of r and just use R!!!
+sol6.7   | 788 inline the scale factors
+sol6.8   | 786 can use r=c=0 and move *D elsewhere
+sol6.9   | 781 don't need else: thanks to the encoding i chose, all Zs can be exec()'d
+sol7     | 775 combine vertical lines into text loop
+sol7.1   | 770 use for-in loop
+sol7.2   | 768 shorter condition for vertical lines
 
 
 
